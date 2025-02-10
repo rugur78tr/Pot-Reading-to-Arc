@@ -6,7 +6,7 @@ Pls check below for different versions.
 
 # Pot2Arc
 
-1. Sprite is created. (Dimesinons: 150x150)
+1. Arc Sprite is created. (Dimensions: 150x150)
 2. Smooth Rounded Rectangle is drawn. (Color: TFT_White) (Dimensions: 200x200)
 3. "< Pot Readings >" string is writted. (Color: TFT_White) (Font: Custom "Jura", Font Size: 8)
 4. Pot Value mapped to 0-100.
@@ -20,7 +20,7 @@ Below are the screen shots!
 
 # Pot2Arc v1.1
 
-1. Sprite is created. (Dimesinons: 150x150)
+1. Arc Sprite is created. (Dimensions: 150x150)
 2. Smooth Rounded Rectangle is drawn. (Color: TFT_White) (Dimensions: 200x200)
 3. "< Pot Readings >" string is writted. (Color: TFT_White) (Font: Custom "Jura", Font Size: 8)
 4. Pot Value mapped to 0-100.
@@ -31,5 +31,25 @@ Below are the screen shots!
 Below are the screen shots!
 
 ![image](https://github.com/user-attachments/assets/6c074522-0f73-45ec-8bcf-0dd5d1b6ed0b) ![image](https://github.com/user-attachments/assets/b436b037-56aa-4ad7-9480-ec83320e0ab3)
+
+#Pot2Arc v1.2
+
+1. Arc Sprite is created. (Dimensions: 150x150)
+2. Smooth Rounded Rectangle is drawn. (Color: TFT_White) (Dimensions: 200x200)
+3. "< Pot Readings >" string is writted. (Color: TFT_White) (Font: Custom "Jura", Font Size: 8)
+4. Pot Value mapped to 0-100.
+5. Yellow Arc is used to show the Pot Value. (Color: TFT_Yellow)
+6. Green Arc is used to show the limits of the Yellow Arc which is valued to Pot Value. (Color: TFT_DarkGreen)
+7. Pot Value is shown by the value to Numbers. (Color: TFT_White) (Font: Custom "Jura", Font Size: 30)
+8. Left Side Sprite is created. (Dimensions: 20x80)
+9. Left Side Smooth Rounded Rectangle is drawn. (Color: TFT_White) (Dimensions: 58x140)
+10. Left Side indicator "< A >" is written. (Color: TFT_While) (Font: Custom "Jura", Font Size: 8)
+11. Left Side 2 Bars are added. One is to show the limits of the Bar which is colored as TFT_PURPLE. Other one is to show the value of the Pot, oolored as TFT_PINK.
+
+Below are the screen shots!
+
+![image](https://github.com/user-attachments/assets/430ff736-97d3-4f3c-93be-7566c272a099) ![image](https://github.com/user-attachments/assets/4fa38bfe-eb0d-4b93-8045-9cd9991bb17d)
+
+
 
 
