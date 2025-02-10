@@ -48,7 +48,8 @@ Below are the screen shots!
 
 Below are the screen shots!
 
-![image](https://github.com/user-attachments/assets/430ff736-97d3-4f3c-93be-7566c272a099)![image](https://github.com/user-attachments/assets/4fa38bfe-eb0d-4b93-8045-9cd9991bb17d)
+![image](https://github.com/user-attachments/assets/44eddc03-5ab8-4ddb-a57a-a279a5bee717) ![image](https://github.com/user-attachments/assets/df85adb2-9520-4a66-a434-ab0cb04f16b7)
+
 
 # Pot2Arc v1.3
 
