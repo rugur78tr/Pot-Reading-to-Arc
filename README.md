@@ -90,7 +90,8 @@ PS: Note that side arcs are in opposite directions.
 
 Bwlow are the screen shots!
 
-![image](https://github.com/user-attachments/assets/dfd5ad82-5345-4c17-a5b1-e1c959e11048)
+![image](https://github.com/user-attachments/assets/d3eb3c1b-8cad-46df-a2f7-4bc3690230c0)
+
 
 
 
