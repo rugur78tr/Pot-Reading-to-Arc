@@ -71,7 +71,7 @@ Below are the screen shots!
 
 PS: Note that Right Side Bar is upside down not to use both same Bar types. (Left Bar is down to up).
 
-Bwlow are the screen shots!
+Below are the screen shots!
 
 ![image](https://github.com/user-attachments/assets/cd905016-9c40-47a5-beed-5c5063e3bb56) ![image](https://github.com/user-attachments/assets/995e1bb4-6a91-43ee-b7cb-680266014e7f)
 
@@ -88,7 +88,7 @@ Right Arc is 90 deg. Starting from 225, ends at 315.
 
 PS: Note that side arcs are in opposite directions. 
 
-Bwlow are the screen shots!
+Below are the screen shots!
 
 ![image](https://github.com/user-attachments/assets/d3eb3c1b-8cad-46df-a2f7-4bc3690230c0)
 
