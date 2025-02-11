@@ -4,6 +4,8 @@ Get your Pot Value to TFT Screen and display with TFT_eSPI Library's Arc. (Plus 
 Custom font files are added to each directory.
 Pls check below for different versions.
 
+https://youtu.be/keYQN9ZsiVA
+
 # Pot2Arc
 
 1. Arc Sprite is created. (Dimensions: 150x150)
