@@ -75,6 +75,22 @@ Bwlow are the screen shots!
 
 ![image](https://github.com/user-attachments/assets/cd905016-9c40-47a5-beed-5c5063e3bb56) ![image](https://github.com/user-attachments/assets/995e1bb4-6a91-43ee-b7cb-680266014e7f)
 
+# Pot2Arc v2 (Totally New Design)
+
+Differences between v1 and v2,
+1. Lower the main Arc
+2. Side bars changed into arcs which have 90 degrees. (Main arc has 270 degrees)
+3. Colors are TFT_YELLOW and TFT_DARKGREEN.
+
+Main Arc is 270 deg. Starting from 45, ends at 315.
+Left Arc is 90 deg. Starting from 45, ends at 135.
+Right Arc is 90 deg. Starting from 225, ends at 315.
+
+PS: Note that side arcs are in opposite directions. 
+
+Bwlow are the screen shots!
+
+![image](https://github.com/user-attachments/assets/dfd5ad82-5345-4c17-a5b1-e1c959e11048)
 
 
 
